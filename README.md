@@ -44,4 +44,8 @@ doc/**/*.txt
 链接：https://www.jianshu.com/p/fe76f2890a14
 來源：简书
 ```
+
+#### 移除版本管理
+移除并删除仓库文件 `git rm ***`
+移除不删除仓库文件 `git rm --cached ***`
 ***
