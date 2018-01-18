@@ -50,4 +50,16 @@ doc/**/*.txt
 #### 移除版本管理
 移除并删除仓库文件 `git rm ***`
 移除不删除仓库文件 `git rm --cached ***`
+
+#### Git命令别名
+```
+$ git config --global alias.co checkout # git config checkout = git config co
+$ git config --global alias.br branch
+$ git config --global alias.ci commit
+$ git config --global alias.st status
+```
+
+作者：关玮琳linSir
+链接：https://www.jianshu.com/p/fe76f2890a14
+來源：简书
 ***
