@@ -51,3 +51,5 @@ doc/**/*.txt
 移除并删除仓库文件 `git rm ***`
 移除不删除仓库文件 `git rm --cached ***`
 ***
+
+git t1
