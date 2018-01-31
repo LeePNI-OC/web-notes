@@ -81,12 +81,22 @@ Here is an example of AppleScript:
     [文字](地址 "title")
     [百度](www.baidu.com "baidu.com")
 
-[百度](www.baidu.com "baidu.com")
-
 2.当前主机资源
 
     使用相对路径
     See my [About](/about/) page for details.
+
+## 强调
+    使用`*`和底线`_`
+    强*强调*调
+
+> 强*强调*调
+
+    使用两个`*`或`_`则会被转成 <strong>
+    强*强调*调
+
+> 强**强调**调    
+
 
 
 
