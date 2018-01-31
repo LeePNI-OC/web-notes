@@ -57,7 +57,7 @@ _ li2
 * li \.
 ```
 
-## 代码区块
+## 代码区块 4 个空格或是 1 个制表符
 段落：
 
     代码区块
@@ -67,4 +67,15 @@ Here is an example of AppleScript:
     tell application "Foo"
         beep
     end tell
+
+## 分隔线 三个以上的星号、减号、底线来建立一个分隔线
+    ***
+    ---
+> ---
+
+
+
+
+
+
 
