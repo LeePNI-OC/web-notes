@@ -75,13 +75,15 @@ Here is an example of AppleScript:
 
 ## 链接
 1.链接外网
-    链接文字都是用 [方括号]
+ 
+   链接文字都是用 [方括号]
     地址用(小括号)
     [文字](地址 "title")
     [百度](www.baidu.com "baidu.com")
 [百度](www.baidu.com "baidu.com")
 
 2.当前主机资源
+
     使用相对路径
     See my [About](/about/) page for details.
 
