@@ -97,7 +97,10 @@ Here is an example of AppleScript:
 
 > 强**强调**调    
 
+## 代码
+    标记一小段行内代码 用` ` `
 
+> `代码`
 
 
 
