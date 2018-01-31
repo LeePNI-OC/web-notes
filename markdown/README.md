@@ -57,12 +57,12 @@ _ li2
 * li \.
 ```
 
+## 代码区块
+段落：
+    代码区块
+Here is an example of AppleScript:
 
-
-
-
-
-
-
-
+    tell application "Foo"
+        beep
+    end tell
 
