@@ -65,3 +65,8 @@ $ git config --global alias.unstage 'reset HEAD --' == $ git unstage fileA $ git
 链接：https://www.jianshu.com/p/fe76f2890a14
 來源：简书
 ***
+
+## 搜索技巧
+site eg:site zhihu.com 前端 /*只在zhihu.com搜索*/
+-号  eg:前端 -知乎 -百度 /*去掉 知乎、百度的搜索结果*/
+最近时间 =>>设置 高级搜索 时间
