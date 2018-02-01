@@ -10,12 +10,12 @@
 # git 操作
 * 创建ssh
 
-    ssh -keygen -t rsa -b 4096 -C "MuzLingm@gmail.com(github邮箱)"
+        ssh -keygen -t rsa -b 4096 -C "MuzLingm@gmail.com(github邮箱)"
 
 * `git clone ssh path | https` 克隆远程git仓库
 * `git remote -v` 查看记录的远程仓库地址
-* `git remote add origin git@github.com:muzlin/web-notes` 把远程仓库地址加个标签=origin
-    
+
+        git remote **add** origin git@github.com:muzlin/web-notes 把远程仓库地址加个标签=origin
         git remote add gitlab git@github.com:muzlin/linux.git 添加一个远程仓库的标签 gitlab
         git remote remove gitlab 删除gitlub的标签
         git remote set-url origin git@github.com:muzlin/update.git 修改ogigin标签对应的远程仓库地址
