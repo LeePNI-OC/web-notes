@@ -16,5 +16,5 @@
 * `git remote -v` 查看记录的远程仓库地址
 * `git remote add origin git@github.com:muzlin/web-notes` 把远程仓库地址加个标签=origin
 * `git push origin master` 推送到远程仓库地址    
-     git push -f origin master 强制推送会覆盖别人的代码    
-     git push gitlab master 推送到gitlab标签的地址上
+        git push -f origin master 强制推送会覆盖别人的代码    
+        git push gitlab master 推送到gitlab标签的地址上
