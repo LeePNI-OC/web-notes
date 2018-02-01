@@ -12,5 +12,5 @@
 
     ssh -keygen -t rsa -b 4096 -C "MuzLingm@gmail.com(github邮箱)"
 
-* git clone `ssh path`|`https`
+* git clone `ssh path | https`
 * 
