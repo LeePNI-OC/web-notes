@@ -26,4 +26,6 @@
 * `git branch dev` 创建本地库dev分支
 
         git checkout dev 切换到dev分支
-        git push origin dev 推送到origin地址的dev分支上 
+        git push origin dev 推送到origin地址的dev分支上
+        git merge dev 合并dev分支
+         
