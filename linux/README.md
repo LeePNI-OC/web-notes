@@ -28,4 +28,8 @@
         git checkout dev 切换到dev分支
         git push origin dev 推送到origin地址的dev分支上
         git merge dev 合并dev分支
-         
+        git branch -d dev 删除dev分支
+
+ 
+
+        
